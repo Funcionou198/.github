@@ -7,8 +7,10 @@ We would ❤️ for you to contribute to Open Runtimes and help make it better! 
 If you are worried or don’t know where to start, check out our next section explaining what kind of help is needed and where you can get involved. You can reach out with questions on our [Discord](https://discord.gg/fP6W2qEzfQ) server. You can also submit an issue and a maintainer can guide you!
 
 ## Code of Conduct
+## Code of Conduct
 
-Help us keep Open Runtimes open and inclusive. Please read and follow our [Code of Conduct](/CODE_OF_CONDUCT.md).
+Help us keep Open Runtimes open and inclusive. Please read and follow our [Code of Conduct](/CODE_OF_CONDUCT.md) for guidance.
+
 
 ## Submit a Pull Request 🚀
 
